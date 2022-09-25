@@ -148,4 +148,4 @@ class Customer(User):
     def __init__()
 
 # Init user objet
-derek = User('derek', 'derek@derek', 99)
+derek = User('derek', 'derek@derek', 100)

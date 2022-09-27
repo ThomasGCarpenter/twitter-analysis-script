@@ -28,16 +28,16 @@ Build a python tool for analyzing networks of transphobia on Twitter
 
 ## Program Flow  -- Future
 ### VARIABLES
-Account *a* of set of accounts *A*
-Tweet *t* of set of tweets *T*
-Like *l* of set of likes *L*
-Retweet *r* of set of retweets *R*
-Subtweet *s* of set of subtweets *S*
-Follower *f* of set of followers *F*
-Follow *g* of set of follows *G* (follow, followed, following, this is exhausting)
-Period *p* of set of periods *P*
+Account *a* of set of accounts *A* 
+Tweet *t* of set of tweets *T* 
+Like *l* of set of likes *L* 
+Retweet *r* of set of retweets *R* 
+Subtweet *s* of set of subtweets *S* 
+Follower *f* of set of followers *F* 
+Follow *g* of set of follows *G* (follow, followed, following, this is exhausting) 
+Period *p* of set of periods *P* 
 
-*x'* for derivative of *x*
+*x'* for derivative of *x* 
 *x_specifier* as needed
 
 ### INGEST TWEETS

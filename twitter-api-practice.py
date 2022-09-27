@@ -14,16 +14,28 @@ _client_secret = os.getenv('Client_Secret')
 _access_token = os.getenv('Access_Token')
 _access_token_secret = os.getenv('Access_Token_Secret')
 
-auth = tweepy.OAuthHandler(_api_key, _api_key_secret)
-auth.set_access_token(_access_token, _access_token_secret)
-resp= tweepy.API(auth)
+#auth = tweepy.OAuthHandler(_api_key, _api_key_secret)
+#auth.set_access_token(_access_token, _access_token_secret)
+#resp= tweepy.API(auth)
 
-api = tweepy.API(auth)
+#api = tweepy.API(auth)
 
-user = api.get_user(screen_name='elmejorgrunon')
-print(user.screen_name)
-print(user.followers_count)
+#user = api.get_user(screen_name='elmejorgrunon')
+#print(user.screen_name)
+#print(user.followers_count)
 
 #public_tweets = api.home_timeline()
 #for tweet in public_tweets:
 #    print(tweet.text)
+
+client = tweepy.Client(bearer_token=_bearer_token)
+
+query = 'covid -is:retweet'
+
+response = client.search_recent_tweets(query=query, max_results=100)
+
+#print(response)
+
+for tweet in response.data:
+    print(tweet.id)
+    print(tweet.lang)

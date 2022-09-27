@@ -37,7 +37,6 @@ Build a python tool for analyzing networks of transphobia on Twitter
 - Follower *f* of set of followers *F*
 - Follow *g* of set of follows *G* (follow, followed, following, this is exhausting)
 - Period *p* of set of periods *P*
-
 - *x'* for derivative of *x*
 - *x_specifier* as needed
 

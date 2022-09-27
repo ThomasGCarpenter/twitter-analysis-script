@@ -28,8 +28,7 @@ Build a python tool for analyzing networks of transphobia on Twitter
 
 ## Program Flow  -- Future
 ### VARIABLES
-Account *a*of set of accounts *A*
-
+Account *a* of set of accounts *A*
 Tweet *t* of set of tweets *T*
 Like *l* of set of likes *L*
 Retweet *r* of set of retweets *R*

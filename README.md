@@ -56,3 +56,7 @@ Build a python tool for analyzing networks of transphobia on Twitter
 - [Natural Language Toolkit (for Python)](https://www.nltk.org/)
 - [Python AI Projects - Twitter Sentiment Analysis in Python - Youtube](https://www.youtube.com/watch?v=pgZcP852dMg)
 - [MongoDB as a Graph Database](https://www.mongodb.com/databases/mongodb-graph-database)
+- [Mining replies to Tweets: A Walkthrough - Towards Data Science](https://towardsdatascience.com/mining-replies-to-tweets-a-walkthrough-9a936602c4d6)
+- [Python Tool Recommendations](https://packaging.python.org/en/latest/guides/tool-recommendations/)
+- [Python Crash Course For Beginners - Traversy Media - Youtube](https://www.youtube.com/watch?v=JJmcL1N2KQs&ab_channel=TraversyMedia)
+- [Studio 3T - MongoDB GUI Tool](https://studio3t.com/download/)

@@ -12,6 +12,7 @@ Build a python tool for analyzing networks of transphobia on Twitter
 - Database
     - non-relational?
     - MongoDB?
+	- Per Miles: Neo4j (dedicated)
 - Visualization
 
 ## High Level 
@@ -54,3 +55,4 @@ Build a python tool for analyzing networks of transphobia on Twitter
 - [Bellingcat Social Network Analysis Tool](https://www.bellingcat.com/app/uploads/2022/08/Bellingcat-Hackathon-Social-Network-Analysis-Tool-Aug22.pdf)
 - [Natural Language Toolkit (for Python)](https://www.nltk.org/)
 - [Python AI Projects - Twitter Sentiment Analysis in Python - Youtube](https://www.youtube.com/watch?v=pgZcP852dMg)
+- [MongoDB as a Graph Database](https://www.mongodb.com/databases/mongodb-graph-database)
